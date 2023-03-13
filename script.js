@@ -12,5 +12,3 @@ function rot13(str) {
 	decodeStr+=char;
 }
 return decodeStr;
-	
-}
